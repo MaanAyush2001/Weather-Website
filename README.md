@@ -1,1 +1,2 @@
 # Weather-Website
+Crafted and built using HTML, CSS, and Java Script.I have created a weather app where the users can get information related to the weather in any city around the world. This app uses weather data from the open weatherMap API using the provided API keys.In this weather app, Users can get the temperature, humidity, and wind speed details of a particular city by entering the city name.
